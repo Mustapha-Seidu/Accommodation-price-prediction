@@ -5,6 +5,8 @@
 2. Monthly price prediction model
 3. Student hostel price prediction model
 
+This is particularly important since, their have different pricing structure.
+
 ## Working on the 'Nightly price prediction model' first
 
 #### Input features
